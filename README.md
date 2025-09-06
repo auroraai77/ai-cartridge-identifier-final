@@ -1,24 +1,24 @@
 # 🖨️ AI Cartridge Identifier
 
-A modern AI-powered tool to **recognize and classify printer cartridges** from text or images.  
-Built with **Python, OpenAI, Streamlit, and OCR (Tesseract)** — designed for a clean dark UI and easy usage.  
+An intelligent assistant that helps you **quickly detect printer cartridge models** from packaging, labels, or product descriptions.  
+The tool combines **OCR** for text extraction and **AI (OpenAI models)** for classification, all wrapped in a sleek **dark-themed web interface**.  
 
 ---
 
-## ✨ Features
-- 🔍 Extracts cartridge model names from **text or images**  
-- 🧠 Uses **AI (OpenAI GPT)** to identify the most likely cartridge model  
-- 🖥️ Interactive **Streamlit web app** with dark theme  
-- 📂 Saves results in JSON format for further use  
+## 🔑 What It Does
+- 📷 Upload an **image** of cartridge packaging or text → system extracts model name  
+- ✍️ Paste or type cartridge **description text** → AI suggests most probable model  
+- 📊 Displays results with confidence score + candidate matches  
+- 🌙 Modern **dark UI** for comfortable daily use  
 
 ---
 
-## 📸 Screenshot
+## 📸 Preview
 ![AI Cartridge Identifier](ai-cartridge-identifier.png)
 
 ---
 
-## 🚀 Installation
+## ⚡ Getting Started
 
 1. Clone the repository:
    ```bash
